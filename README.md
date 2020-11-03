@@ -3,7 +3,7 @@
 ![Developer](https://img.shields.io/badge/GabrielFSSantos-Ecoleta__NLW1__Booster__API-blue)
 [![licence mit](https://img.shields.io/github/license/GabrielFSSantos/Ecoleta_NLW1_Booster_API)](https://github.com/GabrielFSSantos/Ecoleta_NLW1_Booster_API/blob/master/LICENSE)
 
-### Este repositorio é referente ao back-end da aplicação. 
+### Este repositório é referente ao back-end da aplicação. 
 
 > ♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
 > 
